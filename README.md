@@ -10,6 +10,6 @@ A demonstration of my [ROS2 robot movement package](https://github.com/ANI717/ro
 
 <br/>
 
-A demonstration of Steering prediction for robor car running using [Deep Learning Method](https://github.com/ANI717/temple-race-car-deeplearning).<br/>
+A demonstration of Steering prediction for robor car motion using [Deep Learning Method](https://github.com/ANI717/temple-race-car-deeplearning).<br/>
 
 <img src="https://github.com/ANI717/ani717_gif_repository/blob/main/temple-race-car-deeplearning/prediction-1.gif" alt="JupytarLab Interface" class="inline"/><br/>
