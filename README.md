@@ -2,4 +2,5 @@
 - I’m interested in `Deep Learning`, `Computer Vision` and `Robotics`.
 - I’m currently a MS student at Temple University College of Engineering.
 - My major is `Electrical Engineering` and I am going to graduate at the end of 2021.
+- My MS Project is designing a Framework to drive miniature robot cars autonomously [(here)](https://github.com/ANI717/ANI717_Robotics).
 - How to reach me? Contact me via [Linkdin](https://www.linkedin.com/in/ani717/).
