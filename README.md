@@ -1,3 +1,3 @@
 - Hi, I’m Animesh Bala Ani.
-- I’m interested in `Deep Learning`, `Computer Vision` and `Robotics`.
+- I’m interested in `Deep Learning`, `Computer Vision` and `MLOps`.
 - How to reach me? Contact me via [Linkdin](https://www.linkedin.com/in/ani717/).
