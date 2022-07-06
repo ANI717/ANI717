@@ -5,5 +5,4 @@
 (Expertise)
 - Developing Computer Vision and Deep Learning Models
 - Developing API Wrapper for Machine Learning and Deep Learning Models
-- Documentation of API Wrappers for Clients
-- Log Monitoring with Azure Application Insights 
+- Automation of API Wrapper Generation for Machine Learning Models 
