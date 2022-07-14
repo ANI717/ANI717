@@ -9,4 +9,4 @@
 - Developing Middleware for Logging and Tracing with UUID from Azure AppInsight.
 
 (Tech Lead)
-- Automation of API Wrapper Generation for ML & DL Models,
+- Automation of API Wrapper Generation for ML & DL Models.
