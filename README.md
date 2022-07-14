@@ -6,4 +6,6 @@
 - Developing Computer Vision, Machine Learning, Deep Learning and NLP Models
 - Developing API Wrapper for ML & DL Models
 - Developing Middleware for Logging and Tracing with UUID from Azure AppInsight
-- Leading Automation of API Wrapper Generation Project for ML & DL Models
+
+(Tech Lead)
+- Automation of API Wrapper Generation for ML & DL Models
