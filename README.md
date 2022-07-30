@@ -10,3 +10,6 @@
 
 (Tech Lead)
 - Automation of API Wrapper Generation for ML & DL Models.
+
+(Workflow)
+- Working in Scrum workflow that implements Agile manifesto.
