@@ -1,5 +1,5 @@
 - Hi, I’m Animesh Bala Ani.
-- I’m interested in `Deep Learning`, `Computer Vision` and `MLOps`.
+- I’m interested in `MLOps`, `Deep Learning`, `Machine Learning`, `Computer Vision` and `NLP`.
 - I prefer `Python` as preferred programming language.
 - How to reach me? Contact me via [Linkdin](https://www.linkedin.com/in/ani717/).
 
