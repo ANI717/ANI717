@@ -4,22 +4,22 @@ I’m a **Backend API Developer** specializing in deploying **Machine Learning**
 ## 🔍 Interests
 I'm passionate about:
 
-- MLOps
+- **MLOps**
 
-- Natural Language Processing (NLP)
+- **Natural Language Processing (NLP)**
 
-- Generative AI
+- **Generative AI**
 
-- Computer Vision
+- **Computer Vision**
 
-- Machine Learning & Deep Learning
+- **Machine Learning & Deep Learning**
 
 ## 🧠 Expertise
-- Designing and developing models in NLP, Computer Vision, Machine Learning, and Deep Learning.
+- Designing and developing models in **NLP**, **Computer Vision**, **Machine Learning**, and **Deep Learning**.
 
-- Building, testing, and deploying RESTful APIs and middleware around ML/AI models using frameworks like FastAPI and Docker/Kubernetes.
+- Building, testing, and deploying **RESTful APIs** and middleware around ML/AI models using frameworks like **FastAPI** and **Docker/Kubernetes**.
 
-- Developing robotic software and control systems with ROS (Robot Operating System).
+- Developing robotic software and control systems with **ROS (Robot Operating System)**.
 
 ## 📬 How to Reach Me
 Connect with me on [LinkedIn](https://www.linkedin.com/in/ani717/)</br>
